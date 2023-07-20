@@ -2,7 +2,7 @@
 - 👀 I’m interested in `Cloud Data Engineering`
 - 🌱 I’m currently learning `Data lakes & AWS EMR`
 - 💞️ I’m looking to collaborate on ETL/ELT/ELTL Pipelines
-- 📫 How to reach me danialmaluk7@gmail.com
+- 📫 How to reach me danial.shabbir77@gmail.cim
 
 <!---
 DanielOX/DanielOX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
