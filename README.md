@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DanielOX
+- 👋 Hi, I’m Danial Shabbir
 - Portfolio: http://flowcv.com/danial-shabbir
 - [![](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/): https://www.linkedin.com/in/danial-shabbir/
 - <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="drawing" style="width:20px;"/> Contribution: https://stackoverflow.com/users/9991377/danial-shabbir
