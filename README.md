@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=danielox&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/a3x3k)
+[![trophy](https://github-profile-trophy.vercel.app/?username=danielox&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/danielox)
 
 <br/>
   
