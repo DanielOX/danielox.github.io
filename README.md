@@ -1,4 +1,4 @@
-<h2>👋 Hi, I’m Danial Shabbir</h2> <span>4+ Years of Experience in Software Engineering</span>
+<h2>👋 Hi, I’m Danial Shabbir</h2> 
 
 [![GitHub](https://img.shields.io/badge/GITHUB-blue?style=for-the-badge&logo=github)](https://github.com/DanielOX/) 
 [![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=github)](https://www.linkedin.com/in/danial-shabbir/)
