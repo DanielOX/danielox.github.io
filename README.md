@@ -1,10 +1,13 @@
 <h2>👋 Hi, I’m Danial Shabbir</h2> 
+<div align='center'>
+ 
+[![Discord](https://img.shields.io/badge/Contact-Discord-blue?style=for-the-badge&logo=discord&color=black)](https://discordapp.com/users/956149029140586496) &nbsp;
+[![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danial.shabbir77@gmail.com) &nbsp;
+[![GitHub](https://img.shields.io/badge/GITHUB-blue?style=for-the-badge&logo=github)](https://github.com/DanielOX/) &nbsp;
+[![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=github)](https://www.linkedin.com/in/danial-shabbir/) &nbsp;
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/danial_shabbir71) &nbsp;
 
-[![GitHub](https://img.shields.io/badge/GITHUB-blue?style=for-the-badge&logo=github)](https://github.com/DanielOX/) 
-[![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=github)](https://www.linkedin.com/in/danial-shabbir/)
-[![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danial.shabbir77@gmail.com)
-[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/danial_shabbir71)
-
+</div>
 - Portfolio: http://flowcv.com/danial-shabbir
 - [![](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/): https://www.linkedin.com/in/danial-shabbir/
 - <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="drawing" style="width:20px;"/> Contribution: https://stackoverflow.com/users/9991377/danial-shabbir
