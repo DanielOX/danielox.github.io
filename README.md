@@ -1,21 +1,19 @@
 <h2>👋 Hi, I’m Danial Shabbir</h2> 
 <div align='center'>
  
-[![Discord](https://img.shields.io/badge/Contact-Discord-blue?style=for-the-badge&logo=discord&color=black)](https://discordapp.com/users/956149029140586496) &nbsp;
-[![Contact](https://img.shields.io/badge/CONTACT-GMAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danial.shabbir77@gmail.com) &nbsp;
-[![GitHub](https://img.shields.io/badge/GITHUB-blue?style=for-the-badge&logo=github)](https://github.com/DanielOX/) &nbsp;
-[![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=github)](https://www.linkedin.com/in/danial-shabbir/) &nbsp;
+[![Discord](https://img.shields.io/badge/discord-blue?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/956149029140586496) &nbsp;
+[![Contact](https://img.shields.io/badge/GMAIL-white?style=for-the-badge&logo=gmail)](mailto:danial.shabbir77@gmail.com) &nbsp;
+[![GitHub](https://img.shields.io/badge/GITHUB-white?style=for-the-badge&logo=github&logoColor=black)](https://github.com/DanielOX/) &nbsp;
+[![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/danial-shabbir/) &nbsp;
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/danial_shabbir71) &nbsp;
 
 </div>
-- Portfolio: http://flowcv.com/danial-shabbir
-- [![](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/): https://www.linkedin.com/in/danial-shabbir/
-- <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="drawing" style="width:20px;"/> Contribution: https://stackoverflow.com/users/9991377/danial-shabbir
+
+- <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="drawing" style="width:25px; height:auto;marding:none;padding:none"/>Contribution: https://stackoverflow.com/users/9991377/danial-shabbir
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/1200px-ResearchGate_icon_SVG.svg.png" alt="drawing" style="width:20px;"/> Scientific Research & Publications: https://www.researchgate.net/profile/Danial-Sh
 - 👀 I’m interested in `Cloud Data Engineering`
-- 🌱 I’m currently learning `Data lakes & AWS EMR`
-- 💞️ I’m looking to collaborate on ETL/ELT/ELTL Pipelines
-- 📫 How to reach me danial.shabbir77@gmail.com
+- Portfolio: http://flowcv.com/danial-shabbir
+
 </br>
 
 <i><h2>I work wtih</h2></i>
