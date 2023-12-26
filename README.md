@@ -36,43 +36,13 @@
 
 </div>
 
-<i><h2>Stackoverflow Contribution</h2></i>
+<i><h2>Contributions</h2></i>
 <br/>
-
-<div align="center"><a href="https://stackoverflow.com/users/9991377/danial-shabbir"><img src="https://stackoverflow.com/users/flair/9991377.png?theme=dark" width="auto" height="75" alt="profile for Danial Shabbir at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Danial Shabbir at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
- </div>
-<i><h2>Git Activeness</h2></i>
 
 <div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=danielox&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/danielox)
-
-<br/>
-  
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danielox&theme=github_dark) 
-  
-<br/>
-  
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danielox&theme=github_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=danielox&theme=github_dark)
  
- <br/>
-  
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=danielox&theme=github_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=danielox&theme=github_dark) 
-  
-<br/>
-  
- <p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielox&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+[![DanielOX's Stack Overflow | Stats](https://stats.quine.sh/DanielOX/stack-overflow?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=DanielOX)
+[![DanielOX's GitHub | Stats](https://stats.quine.sh/DanielOX/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=DanielOX)
 
-<br/>
-  
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=danielox&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="danielox's Github Stats"> 
-  
-<br/>
-<br/>
-<br/>
- 
-<!-- ![S Abhishek's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=a3x3k&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true) -->
-<!--   
-<br/>
- -->
+
 </div>
