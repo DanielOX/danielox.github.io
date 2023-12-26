@@ -5,11 +5,11 @@
 [![Contact](https://img.shields.io/badge/GMAIL-white?style=for-the-badge&logo=gmail)](mailto:danial.shabbir77@gmail.com) &nbsp;
 [![GitHub](https://img.shields.io/badge/GITHUB-white?style=for-the-badge&logo=github&logoColor=black)](https://github.com/DanielOX/) &nbsp;
 [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/danial-shabbir/) &nbsp;
-[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/danial_shabbir71) &nbsp;
+[![Hackerrank](https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/profile/danial_shabbir71) &nbsp;
 
 </div>
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="drawing" style="width:25px; height:auto;marding:none;padding:none"/>Contribution: https://stackoverflow.com/users/9991377/danial-shabbir
+- <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="drawing" style="width:25px; height:auto;marding:none;padding:none"/>https://stackoverflow.com/users/9991377/danial-shabbir
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/1200px-ResearchGate_icon_SVG.svg.png" alt="drawing" style="width:20px;"/> Scientific Research & Publications: https://www.researchgate.net/profile/Danial-Sh
 - 👀 I’m interested in `Cloud Data Engineering`
 - Portfolio: http://flowcv.com/danial-shabbir
