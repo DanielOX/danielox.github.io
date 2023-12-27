@@ -1,5 +1,6 @@
 <h2>👋 Hi, I’m Danial Shabbir</h2> 
 <div align='center'>
+ <h3>How to contact me </h3>
  
 [![Discord](https://img.shields.io/badge/discord-blue?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/956149029140586496) &nbsp;
 [![Contact](https://img.shields.io/badge/GMAIL-white?style=for-the-badge&logo=gmail)](mailto:danial.shabbir77@gmail.com) &nbsp;
