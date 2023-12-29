@@ -5,11 +5,13 @@
 [![Discord](https://img.shields.io/badge/discord-blue?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/956149029140586496) &nbsp;
 [![Contact](https://img.shields.io/badge/GMAIL-white?style=for-the-badge&logo=gmail)](mailto:danial.shabbir77@gmail.com) &nbsp;
 [![GitHub](https://img.shields.io/badge/GITHUB-white?style=for-the-badge&logo=github&logoColor=black)](https://github.com/DanielOX/) &nbsp;
-[![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/danial-shabbir/) &nbsp;
+[![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/data-engineer-d) &nbsp;
 [![Hackerrank](https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/profile/danial_shabbir71) &nbsp;
 
 </div>
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="danial-shabbir" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://de.linkedin.com/in/danial-shabbir?trk=profile-badge">Danial S.</a></div>
+                            
 - <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="drawing" style="width:25px; height:auto;marding:none;padding:none"/>https://stackoverflow.com/users/9991377/danial-shabbir
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/1200px-ResearchGate_icon_SVG.svg.png" alt="drawing" style="width:20px;"/> Scientific Research & Publications: https://www.researchgate.net/profile/Danial-Sh
 - 👀 I’m interested in `Cloud Data Engineering`
