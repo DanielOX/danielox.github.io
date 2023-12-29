@@ -46,12 +46,10 @@
         </figure>
 
         <div class="info-content">
-          <h1 class="name" title="Richard hanrick">Danial Shabbir</h1>
-          <div style="display: flex; flex-direction: row; justify-content: space-between;">
+          <h2 class="name" title="Richard hanrick">Danial Shabbir - Data Engineer / Backend Developer</h2>
+          <div style="display: flex; flex-direction: row;">
             <p class="title">Data Engineer</p> &nbsp;
-
             <p class="title">Backend Developer</p>
-  
           </div>
 
         </div>
@@ -90,11 +88,11 @@
               <ion-icon name="phone-portrait-outline"></ion-icon>
             </div>
 
-            <div class="contact-info">
+            <!-- <div class="contact-info">
               <p class="contact-title">Phone</p>
 
               <a href="tel:+12133522795" class="contact-link">+92 (340) 1763773</a>
-            </div>
+            </div> -->
 
           </li>
 
@@ -182,9 +180,9 @@
             <button class="navbar-link" data-nav-link>Resume</button>
           </li>
 
-          <li class="navbar-item">
+          <!-- <li class="navbar-item">
             <button class="navbar-link" data-nav-link>Portfolio</button>
-          </li>
+          </li> -->
 
           <!-- <li class="navbar-item">
             <button class="navbar-link" data-nav-link>Blog</button>
@@ -206,7 +204,7 @@
         - #ABOUT
       -->
 
-      <article class="about" data-page="about">
+      <article class="about active" data-page="about">
 
         <header>
           <h2 class="h2 article-title">About me</h2>
@@ -515,7 +513,7 @@
         - #RESUME
       -->
 
-      <article class="resume active" data-page="resume">
+      <article class="resume" data-page="resume">
 
         <header>
           <h2 class="h2 article-title">Resume</h2>
@@ -708,9 +706,9 @@
         <section >
             <h3 class="h3 skills-title">Reach out to me</h3>
             <div align="center">
-                <a href="#" onclick="window.formbutton()">
+                <button onclick="document.querySelector('#formbutton-button').click()">
                     <img src="https://img.shields.io/badge/Send me a message-orange?style=for-the-badge&logo=livechat&logoColor=white" alt="contact danial" height="30px" width="auto">
-                </a>
+                </button>
             </div>
         </section>
 
@@ -723,7 +721,7 @@
         - #PORTFOLIO
       -->
 
-      <article class="portfolio" data-page="portfolio">
+      <!-- <article class="portfolio" data-page="portfolio">
 
         <header>
           <h2 class="h2 article-title">Portfolio</h2>
@@ -953,7 +951,7 @@
 
         </section>
 
-      </article>
+      </article> -->
 
 
 
@@ -1173,6 +1171,7 @@
   /* paste this line in verbatim */
   window.formbutton=window.formbutton||function(){(formbutton.q=formbutton.q||[]).push(arguments)};
   /* customize formbutton below*/  
+  function createForm(){
   formbutton("create", {
       action: "https://formspree.io/f/moqgqqrz",
       title: "👋 How can i help?",
@@ -1201,6 +1200,8 @@
       }
       }
   });
+}
+createForm()
   
   </script>
 </body>
