@@ -14,14 +14,15 @@
 
 
 </div>
-<br/>
                             
 <br/>
 <div align="center">
 <h3>Hire me for next big thing!</h3>
 
-
-[![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/danialshabbirdeveloper)
+<a href="https://www.upwork.com/freelancers/danialshabbirdeveloper" rel="canonical">
+<img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" style="width:auto;height:35px" />
+</a> 
+</div>
 
 
 </div>
