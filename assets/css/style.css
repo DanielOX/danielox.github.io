@@ -490,6 +490,7 @@ main {
 
 
 
+
 /*-----------------------------------*\
   #ABOUT
 \*-----------------------------------*/
@@ -1382,7 +1383,7 @@ textarea.form-input::-webkit-resizer { display: none; }
 
   .navbar-list { gap: 20px; }
 
-  .navbar-link { --fs-8: 14px; }
+  .navbar-link { --fs-8: 17px; }
 
 
 
@@ -1581,7 +1582,7 @@ textarea.form-input::-webkit-resizer { display: none; }
    * NAVBAR
    */
 
-  .navbar-link { --fs-8: 17px; }
+  /* .navbar-link { --fs-8: 17px; } */
 
 
 
