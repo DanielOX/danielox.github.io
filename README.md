@@ -1,4 +1,3 @@
-<meta name="google-site-verification" content="3ojgvA0QMlpX5viE8WBN3XVzpeijhsPTJDZdg1wg8PQ" />
 <h2>👋 Hi, I’m Danial Shabbir</h2> 
 <div align='center'>
  <h3>How to contact me </h3>
